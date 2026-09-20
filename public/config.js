@@ -3,6 +3,6 @@
 //  Supabase > Project Settings > API
 // =====================================================================
 window.APP_CONFIG = {
-  SUPABASE_URL: "PEGA_AQUI_TU_PROJECT_URL",
-  SUPABASE_ANON_KEY: "PEGA_AQUI_TU_CLAVE_PUBLICA"
+  SUPABASE_URL: "https://xkijgmfsbdoublktuqxu.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_1sisg9pJyNptGbpu6jDBww_g71niQNQ"
 };
